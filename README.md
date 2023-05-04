@@ -1,4 +1,4 @@
-# hack-pow-prod
+# Forecasting Solar Energy Efficiency
 
 [Link to hackathon](https://machinehack.com/hackathons/forecasting_solar_energy_efficiency_engage_in_the_challenge_and_win/overview)
 
