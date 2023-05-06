@@ -11,4 +11,4 @@
 
 Evaluation - MSE
 
-[My solution]()
+[My solution](https://github.com/AndreyStartup/hack-pow-prod/blob/main/Hack2.ipynb)
