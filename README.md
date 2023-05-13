@@ -11,4 +11,9 @@
 
 Evaluation - MSE
 
-[My solution]()
+[My solution](https://github.com/AndreyStartup/hack-pow-prod/blob/main/Hack2.ipynb)
+
+## Results
+
+<img width="246" alt="image" src="https://github.com/AndreyStartup/hack-pow-prod/assets/114228619/af1f28bd-cf71-4ed6-a2e9-0ee50f1162b1">
+
