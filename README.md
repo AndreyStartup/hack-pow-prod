@@ -1,3 +1,6 @@
+
+<img src=https://www.stormgeo.com/assets/Solar/StormGeo-Solcast-Solar__FocusFillWzQ4MDAsMzQ1OCwieCIsMzAwXQ_FocusFillWzQ4MDAsMjcwMCwieSIsMzc5XQ.jpg>
+
 # Forecasting Solar Energy Efficiency
 
 [Link to hackathon](https://machinehack.com/hackathons/forecasting_solar_energy_efficiency_engage_in_the_challenge_and_win/overview)
@@ -11,9 +14,9 @@
 
 Evaluation - MSE
 
-[My solution](https://github.com/AndreyStartup/hack-pow-prod/blob/main/Hack2.ipynb)
+### [My solution](https://github.com/AndreyStartup/hack-pow-prod/blob/main/Hack2.ipynb)
 
 ## Results
 
-<img width="246" alt="image" src="https://github.com/AndreyStartup/hack-pow-prod/assets/114228619/af1f28bd-cf71-4ed6-a2e9-0ee50f1162b1">
+<img width="246" alt="image" src="https://github.com/AndreyStartup/hack-pow-prod/assets/114228619/dc4ee7b5-5d7c-4821-8e37-acf3a7d2746d">
 
